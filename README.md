@@ -12,12 +12,19 @@ I have completed an End-to-End Data Engineering Project on Tokyo Olympics Data u
 # Technologies Used
 
 Programming Language - Python
+
 SQL
+
 Azure
+
 Azure Data Factory 
+
 Azure Data Lake 
+
 Azure Data Bricks 
+
 Azure Synapse Analytics
+
 Spark
 
 # Dataset Used
